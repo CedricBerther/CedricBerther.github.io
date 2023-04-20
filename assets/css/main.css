@@ -2060,7 +2060,7 @@ a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus { b
 
 .m-5 { margin: 3rem !important; }
 
-.mt-5, .my-5 { margin-top: 3rem !important; }
+.mt-5, .my-5 { margin-top: 0rem !important; }
 
 .mr-5, .mx-5 { margin-right: 3rem !important; }
 
